@@ -1,0 +1,98 @@
+{
+    "id": 81,
+    "model": {
+        "id": 24194,
+        "make": {
+            "id": 113,
+            "name": "Mazda"
+        },
+        "name": "CX-5"
+    },
+    "added_by": "Sam Mwai",
+    "features": [
+        {
+            "id": 3,
+            "name": "Air Conditioning"
+        },
+        {
+            "id": 4,
+            "name": "Airbags"
+        },
+        {
+            "id": 5,
+            "name": "AM/FM Radio"
+        },
+        {
+            "id": 6,
+            "name": "Anti Lock Brakes"
+        },
+        {
+            "id": 7,
+            "name": "Armrests"
+        },
+        {
+            "id": 8,
+            "name": "Electric Mirrors"
+        },
+        {
+            "id": 9,
+            "name": "Electric Windows"
+        },
+        {
+            "id": 10,
+            "name": "Power Steering"
+        },
+        {
+            "id": 11,
+            "name": "Tinted Windows"
+        },
+        {
+            "id": 12,
+            "name": "Traction Control"
+        },
+        {
+            "id": 13,
+            "name": "Reverse Camera"
+        },
+        {
+            "id": 14,
+            "name": "Push to Start"
+        },
+        {
+            "id": 16,
+            "name": "Xenon Lights"
+        },
+        {
+            "id": 17,
+            "name": "Alloy Rims"
+        },
+        {
+            "id": 18,
+            "name": "Steering Controls"
+        },
+        {
+            "id": 24,
+            "name": "Parking Sensors"
+        }
+    ],
+    "number_plate": "KDd",
+    "year": 2014,
+    "selling_price": 2130000,
+    "mileage": 129506,
+    "color": "red",
+    "condition": "Foreign used",
+    "engine_size": "2200",
+    "transmission_type": "",
+    "fuel_type": "",
+    "body_type": "Mini SUV",
+    "drive_type": "4WD",
+    "interior": "Cloth",
+    "description": "-",
+    "created": "2021-11-13T15:24:59.398490+03:00",
+    "updated": "2021-11-13T15:24:59.398524+03:00",
+    "sold": false,
+    "featured": false,
+    "slug": "mazda-cx-5-qxsbf",
+    "sales_person_email": "sammwai2011@gmail.com",
+    "sales_person_phone_number": "+254734515152"
+}
